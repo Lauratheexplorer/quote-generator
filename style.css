@@ -27,6 +27,10 @@ body {
     box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 
+#topText {
+    color: rgb(53, 11, 11) ;
+}
+
 .quote-text {
     font-size: 2rem;
 }

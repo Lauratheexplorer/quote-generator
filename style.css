@@ -21,7 +21,7 @@ body {
 .quote-container {
     width: auto;
     max-width: 900px;
-    padding: 100px 300px;
+    padding: 20px 30px;
     border-radius: 10px;
     background-color: rgba(255, 255, 255, 0.4);
     box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
@@ -105,7 +105,7 @@ button:active {
 /* Media Query: Tablet or Smaller */
 @media screen and (max-width: 1000px) {
     .quote-container {
-        margin: auto 10px;
+        margin: auto 30px;
     }
     .quote-text {
         font-size: 2rem;
